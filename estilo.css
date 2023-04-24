@@ -7,9 +7,16 @@ body{
 }
 
 .img-cabeçalho{
-    height: 300px;
+    height: 600px;
 }
 
 .cabeçalho{
     display: flex;
+    justify-content: space-between;
+}
+
+.item-cabeçalho{
+    display:inline-block;
+    margin: 45px;
+    font-size: 35px;
 }
