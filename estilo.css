@@ -1,5 +1,5 @@
 body{
-   
+   background-color: #eeab6d;
     
     font-size: 30px;
     font-style: italic;
@@ -13,12 +13,16 @@ body{
 .cabeçalho{
     display: flex;
     justify-content: space-between;
-    color: rgba(255, 252, 240, 0.973);
-    background-color:#489D92;
+    color: #EBB475;
+    background-color:#844B0A;
 }
 
 .item-cabeçalho{
     display:inline-block;
     margin: 45px;
     font-size: 35px;
+}
+
+h2{
+    color: aliceblue;
 }
