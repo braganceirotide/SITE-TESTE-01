@@ -1,18 +1,20 @@
 body{
-    background-color:#489D92;
-    color: aliceblue;
+   
+    
     font-size: 30px;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .img-cabeçalho{
-    height: 600px;
+    height: 300px;
 }
 
 .cabeçalho{
     display: flex;
     justify-content: space-between;
+    color: rgba(255, 252, 240, 0.973);
+    background-color:#489D92;
 }
 
 .item-cabeçalho{
