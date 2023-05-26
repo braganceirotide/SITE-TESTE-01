@@ -27,6 +27,12 @@ h2{
     color: aliceblue;
 }
 
+.principal{
+
+    
+    display: flex;
+}
+
 
 
 .imagem-principal{
