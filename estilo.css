@@ -13,8 +13,8 @@ body{
 .cabeçalho{
     display: flex;
     justify-content: space-between;
-    color: #EBB475;
-    background-color:#844B0A;
+    color: #fdfdfd;
+    background-color:#291a03;
 }
 
 .item-cabeçalho{
@@ -24,17 +24,27 @@ body{
 }
 
 h2{
-    color: aliceblue;
+    color:hsl(0, 0%, 100%);
 }
 
 .principal{
 
     
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
 
 .imagem-principal{
     width: 500px;
+}
+
+.div-principal{
+    width: 45%;
+}
+
+.paragrafo{
+text-align:justify ;
 }
