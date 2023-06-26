@@ -5,7 +5,7 @@
 }
 
 body{
-   background-color: yellowgreen;
+   background-color: rgb(178, 235, 121);
     
     font-size: 30px;
     font-style: italic;
@@ -30,7 +30,7 @@ body{
 }
 
 h2{
-    color:hsl(93, 92%, 15%);
+    color:hsl(36, 92%, 15%);
 }
 
 .principal{
@@ -62,4 +62,9 @@ text-align:justify ;
 
 h2{
     font-family: 'Rock 3D', cursive;
+}
+
+.missão{
+    width: 45%;
+    padding: 80px;
 }
