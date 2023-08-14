@@ -5,7 +5,7 @@
 }
 
 body{
-   background-color: rgb(178, 235, 121);
+   background-color: rgb(169, 187, 9);
     
     font-size: 30px;
     font-style: italic;
@@ -20,7 +20,7 @@ body{
     display: flex;
     justify-content: space-between;
     color: #fdfdfd;
-    background-color:#291a03;
+    background-color:#0e440d;
 }
 
 .item-cabeçalho{
@@ -31,6 +31,7 @@ body{
 
 h2{
     color:hsl(36, 92%, 15%);
+    font-family: 'Stick No Bills';
 }
 
 .principal{
@@ -61,7 +62,7 @@ text-align:justify ;
 }
 
 h2{
-    font-family: 'Rock 3D', cursive;
+    
 }
 
 .missão{
